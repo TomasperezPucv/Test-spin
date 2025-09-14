@@ -4,3 +4,4 @@ enum playerState{
 	SPIN,
 	JUMP,
 }
+//jajaxd
