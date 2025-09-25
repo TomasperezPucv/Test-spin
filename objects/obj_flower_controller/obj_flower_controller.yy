@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_flower",
-  "eventList":[],
+  "%Name":"obj_flower_controller",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_flower",
+  "name":"obj_flower_controller",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_happy_plower",
-    "path":"sprites/spr_happy_plower/spr_happy_plower.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

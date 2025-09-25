@@ -44,7 +44,7 @@
   "name":"Test spin",
   "resources":[
     {"id":{"name":"fnt_control","path":"fonts/fnt_control/fnt_control.yy",},},
-    {"id":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},},
+    {"id":{"name":"obj_flower_controller","path":"objects/obj_flower_controller/obj_flower_controller.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_spin_arrow","path":"objects/obj_spin_arrow/obj_spin_arrow.yy",},},
     {"id":{"name":"obj_ui_controls","path":"objects/obj_ui_controls/obj_ui_controls.yy",},},
@@ -56,6 +56,7 @@
     {"id":{"name":"scr_simple_colissions","path":"scripts/scr_simple_colissions/scr_simple_colissions.yy",},},
     {"id":{"name":"scr_states_player","path":"scripts/scr_states_player/scr_states_player.yy",},},
     {"id":{"name":"seq_test","path":"sequences/seq_test/seq_test.yy",},},
+    {"id":{"name":"spr_butterfly","path":"sprites/spr_butterfly/spr_butterfly.yy",},},
     {"id":{"name":"spr_flecha","path":"sprites/spr_flecha/spr_flecha.yy",},},
     {"id":{"name":"spr_happy_plower","path":"sprites/spr_happy_plower/spr_happy_plower.yy",},},
     {"id":{"name":"spr_player_impatient","path":"sprites/spr_player_impatient/spr_player_impatient.yy",},},
