@@ -10,6 +10,9 @@ switch(state){
 		break;
 	case playerState.JUMP:
 		state_player_jump();
-		break
+		break;
+	case playerState.SWIM:
+		state_player_swim();
+		break;
 		
 }

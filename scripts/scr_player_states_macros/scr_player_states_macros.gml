@@ -3,5 +3,6 @@ enum playerState{
 	WALK,
 	SPIN,
 	JUMP,
+	SWIM,
 }
 //jajaxd

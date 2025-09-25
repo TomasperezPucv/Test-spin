@@ -12,6 +12,10 @@ switch(obj_player.state){
 	case playerState.SPIN:
 		controls_text = "[C]: Cancel\n[Space]: Jump";
         break;
+	
+	case playerState.SWIM:
+		controls_text = "[Arrows]: Swim";
+        break;
 		
 	default:
         controls_text = "como chucha llegamos hasta aca XD"; // por si acaso
